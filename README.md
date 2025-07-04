@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kaif Ali (KF)  
-## 🛠️ Full-Stack Developer | Automation Expert | Project Manager  
+ 
 
 ### 🚀 About Me  
 - 🌟 Founder at [Pie Metrix](https://pimatrix.in)  
