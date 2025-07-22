@@ -1,23 +1,26 @@
 <div align="center">
 
-  <!-- 🔥 Typing Effect Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=2000&color=00FFD5&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hi%2C+I%E2%80%99m+Kaif+Ali+(KF)+%F0%9F%91%9D;Web+Scraping+%7C+Automation+%7C+JavaScript+Developer;Apify+%7C+Puppeteer+%7C+Crawlee+%7C+Playwright" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hey%2C+I'm+Kaif+Ali;Web+Scraping+Specialist+%7C+Automation+Developer" />
 
-  <!-- 🎯 GIF Banner (Web Scraping/Automation) -->
-  <img src="https://media.giphy.com/media/wkW0maGDN1HlNbX9iF/giphy.gif" width="90%" alt="Scraping Process"/>
+
+
+
+  <!-- Custom Banner GIF (You can replace this with your custom one later) -->
+  <img src="https://media.giphy.com/media/wkW0maGDN1HlNbX9iF/giphy.gif" width="90%" alt="Web Scraping Banner"/>
 
 </div>
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
-Hi! I'm **Kaif Ali (KF)** — a passionate **Web Scraping Specialist** and **JavaScript Developer**  
-with deep expertise in data automation and smart extraction systems. I work with tools like Puppeteer, Crawlee, Playwright, and **Apify** to build powerful bots, scrapers, and scalable automation workflows.
+I'm **Kaif Ali (KF)** — a results-driven Web Scraping Engineer and Automation Developer. I build reliable and scalable data extraction pipelines, automate browser tasks, and streamline workflows using powerful tools like **Puppeteer**, **Playwright**, **Crawlee**, and **Apify**.
+
+With hands-on experience in browser automation, JavaScript, and Node.js, I help businesses turn web data into structured, usable insights.
 
 ---
 
-### ⚒️ Tech Stack & Tools
+### Tech Stack
 
 <div align="center">
 
@@ -31,25 +34,25 @@ with deep expertise in data automation and smart extraction systems. I work with
 
 ---
 
-### 🚀 What I Can Do
+### What I Do
 
-- 🔎 **Extract clean data** from real estate, e-commerce, directories, and custom websites
-- ⚙️ **Automate repetitive tasks** with smart bots and schedulers
-- 📦 **Create APIs & deliver data** in JSON, CSV, Excel, or Google Sheets
-- 🌐 **Host workflows on Apify** or any cloud infrastructure
-- ⏱️ Deliver fast, accurate, and budget-friendly solutions
-
----
-
-### 🌐 My Links
-
-- 💼 [Portfolio](https://animbrozz.vercel.app/)
-- 📸 [Instagram](https://www.instagram.com/kaif11alii/)
-- 📧 [Email](mailto:saiyedkaifali29@gmail.com)
+- Extract structured data (JSON, CSV, Excel) from dynamic and static websites  
+- Automate repetitive tasks using browser scripting and APIs  
+- Build custom scrapers for platforms like e-commerce, real estate, job portals  
+- Integrate scrapers with **Make.com**, **Apify**, or cloud deployment  
+- Provide clean, well-documented code and client-ready results
 
 ---
 
-### 📊 GitHub Stats
+### Contact
+
+- Portfolio: [animbrozz.vercel.app](https://animbrozz.vercel.app)
+- Instagram: [@kaif11alii](https://www.instagram.com/kaif11alii/)
+- Email: [saiyedkaifali29@gmail.com](mailto:saiyedkaifali29@gmail.com)
+
+---
+
+### GitHub Stats
 
 <div align="center">
 
@@ -62,6 +65,6 @@ with deep expertise in data automation and smart extraction systems. I work with
 
 <div align="center">
   
-  ⭐ *Thank you for visiting my profile! Let’s build something awesome together.*
+  Building smarter automation. Delivering better data.
 
 </div>
