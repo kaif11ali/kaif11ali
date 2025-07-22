@@ -1,52 +1,67 @@
 <div align="center">
 
-  <!-- Typing SVG Headline -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=2000&color=00FFD5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Web+Scraping+%7C+Automation+%7C+JavaScript+Developer;Smart+Data+Extraction+Expert+%7C+Apify+%7C+Puppeteer+%7C+Crawlee" />
+  <!-- 🔥 Typing Effect Title -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=2000&color=00FFD5&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hi%2C+I%E2%80%99m+Kaif+Ali+(KF)+%F0%9F%91%9D;Web+Scraping+%7C+Automation+%7C+JavaScript+Developer;Apify+%7C+Puppeteer+%7C+Crawlee+%7C+Playwright" />
 
-  <!-- Professional Full GIF (scraping) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMzMzllNjA2Y2YzYjI0OWVhZmQxM2MwNzViNzA0N2QwYjc4ZDZlNyZjdD1n/wkW0maGDN1HlNbX9iF/giphy.gif" width="90%" alt="Web Scraping Automation" />
+  <!-- 🎯 GIF Banner (Web Scraping/Automation) -->
+  <img src="https://media.giphy.com/media/wkW0maGDN1HlNbX9iF/giphy.gif" width="90%" alt="Scraping Process"/>
 
-  <br><br>
+</div>
 
-  ## 👋 Hi, I’m Kaif Ali (KF)
+---
 
-  I'm a passionate **developer** and **web scraping specialist**, focused on building smart data automation solutions.  
-  I help businesses save time by extracting, structuring, and automating data using the latest scraping technologies.
+### 🙋‍♂️ About Me
 
-  <br>
+Hi! I'm **Kaif Ali (KF)** — a passionate **Web Scraping Specialist** and **JavaScript Developer**  
+with deep expertise in data automation and smart extraction systems. I work with tools like Puppeteer, Crawlee, Playwright, and **Apify** to build powerful bots, scrapers, and scalable automation workflows.
 
-  ### 🧠 Expertise
+---
 
-  - 🔹 JavaScript / Node.js
-  - 🔹 HTML & CSS
-  - 🔹 Puppeteer / Crawlee / Playwright
-  - 🔹 Apify platform
-  - 🔹 GitHub Workflow & Automation
+### ⚒️ Tech Stack & Tools
 
-  <br>
+<div align="center">
 
-  ### 💼 What I Do
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,github" height="40" />
+  <img src="https://img.shields.io/badge/Puppeteer-40AEF0?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crawlee-000000?style=for-the-badge&logo=apify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-45BA7F?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apify-0D83DD?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAMAAABbayygAAAAMFBMVEUAAAD///////////////////////////////////////////////////////////////////8ptRU+AAAAEXRSTlMAEBAQICAhISIjIyUlJSUlJSUlJWf7/wAAAERJREFUGFctwYkSgDAMBNC7h6H9n+x/aQvAlSlFEmcN4IvgT02HcR7cYXGDSDAxDzGPZ99KZKhHJ3OUO+dUjSOH+2PyBlhHUAAAAASUVORK5CYII=" />
 
-  - 🔍 Web Scraping (e-commerce, real estate, directories, etc.)
-  - ⚙️ Automation Scripts & Bots (data collection, task automation)
-  - 📦 API Wrappers for Scraped Data
-  - 🔁 Scheduled & Cloud-Based Scraping (Apify)
-  - 📊 Clean, well-structured delivery (JSON, CSV, Google Sheets, etc.)
+</div>
 
-  <br>
+---
 
-  ### 🌐 Portfolio & Contact
+### 🚀 What I Can Do
 
-  🔗 [🌍 Portfolio Website](https://animbrozz.vercel.app/)  
-  📩 [📧 saiyedkaifali29@gmail.com](mailto:saiyedkaifali29@gmail.com)  
-  📸 [📱 Instagram](https://www.instagram.com/kaif11alii/)
+- 🔎 **Extract clean data** from real estate, e-commerce, directories, and custom websites
+- ⚙️ **Automate repetitive tasks** with smart bots and schedulers
+- 📦 **Create APIs & deliver data** in JSON, CSV, Excel, or Google Sheets
+- 🌐 **Host workflows on Apify** or any cloud infrastructure
+- ⏱️ Deliver fast, accurate, and budget-friendly solutions
 
-  <br>
+---
 
-  ---
+### 🌐 My Links
+
+- 💼 [Portfolio](https://animbrozz.vercel.app/)
+- 📸 [Instagram](https://www.instagram.com/kaif11alii/)
+- 📧 [Email](mailto:saiyedkaifali29@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kaif11ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif11ali&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+<div align="center">
   
-  ![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaif11ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif11ali&layout=compact&theme=tokyonight&hide_border=true)
+  ⭐ *Thank you for visiting my profile! Let’s build something awesome together.*
 
 </div>
