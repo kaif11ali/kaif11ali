@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Hey%2C+I'm+Kaif+Ali;Web+Scraping+Specialist+%7C+Automation+Developer" />
-
-
 
 
   <!-- Custom Banner GIF (You can replace this with your custom one later) -->
-  <img src="https://media.giphy.com/media/wkW0maGDN1HlNbX9iF/giphy.gif" width="90%" alt="Web Scraping Banner"/>
+  <img src="readme.gif.gif" width="100%" alt="Web Scraping Banner"/>
 
 </div>
 
@@ -14,7 +11,7 @@
 
 ### About Me
 
-I'm **Kaif Ali (KF)** — a results-driven Web Scraping Engineer and Automation Developer. I build reliable and scalable data extraction pipelines, automate browser tasks, and streamline workflows using powerful tools like **Puppeteer**, **Playwright**, **Crawlee**, and **Apify**.
+I'm **Kaif Ali** — a results-driven Web Scraping Engineer and Automation Developer. I build reliable and scalable data extraction pipelines, automate browser tasks, and streamline workflows using powerful tools like **Puppeteer**, **Playwright**, **Crawlee**, and **Apify**.
 
 With hands-on experience in browser automation, JavaScript, and Node.js, I help businesses turn web data into structured, usable insights.
 
