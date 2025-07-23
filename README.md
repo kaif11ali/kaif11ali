@@ -3,7 +3,7 @@
 
 
   <!-- Custom Banner GIF (You can replace this with your custom one later) -->
-  <img src="readme.gif.gif" width="100%" alt="Web Scraping Banner"/>
+  <img src="readme-repo.gif.gif" width="100%" alt="Web Scraping Banner"/>
 
 </div>
 
