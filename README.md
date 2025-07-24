@@ -43,7 +43,7 @@ With hands-on experience in browser automation, JavaScript, and Node.js, I help 
 
 ### Contact
 
-- Portfolio: [animbrozz.vercel.app](https://srapbrozz.vercel.app)
+- Portfolio: [animbrozz.vercel.app](https://scrapbrozz.vercel.app)
 - Instagram: [@kaif11alii](https://www.instagram.com/kaif11alii/)
 - Email: [saiyedkaifali29@gmail.com](mailto:saiyedkaifali29@gmail.com)
 
