@@ -19,15 +19,18 @@ With hands-on experience in browser automation, JavaScript, and Node.js, I help 
 
 ### Tech Stack
 
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,github" height="40" />
-  <img src="https://img.shields.io/badge/Puppeteer-40AEF0?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crawlee-000000?style=for-the-badge&logo=apify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-45BA7F?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apify-0D83DD?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAMAAABbayygAAAAMFBMVEUAAAD///////////////////////////////////////////////////////////////////8ptRU+AAAAEXRSTlMAEBAQICAhISIjIyUlJSUlJSUlJWf7/wAAAERJREFUGFctwYkSgDAMBNC7h6H9n+x/aQvAlSlFEmcN4IvgT02HcR7cYXGDSDAxDzGPZ99KZKhHJ3OUO+dUjSOH+2PyBlhHUAAAAASUVORK5CYII=" />
-
-</div>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/15772/15772797.png" alt="React" width="35" height="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/15484/15484303.png" alt="NodeJs" width="35" height="35"/>
+  <img src="https://apify.com/img/apify-logo/logomark-32x32.svg" alt="Apify" width="32" height="32"/>
+  <img src="https://apify.com/img/template-icons/crawlee.svg" alt="Crawlee" width="35" height="35"/>
+  <img src="https://apify.com/img/template-icons/cheerio.svg" alt="Cheerio" width="33" height="33"/>
+  <img src="https://apify.com/img/template-icons/puppeteer.svg" alt="Puppeteer" width="35" height="35"/>
+  <img src="https://apify.com/img/template-icons/playwright.svg" alt="PlayWright" width="35" height="35"/>
+</p>
 
 ---
 
@@ -41,14 +44,11 @@ With hands-on experience in browser automation, JavaScript, and Node.js, I help 
 
 ---
 
-### Contact
+### My Projects
 
-- Portfolio: [Scrapbrozz.vercel.app](https://scrapbrozz.vercel.app)
-- Download .exe: [Video-Splitter](https://splittter.vercel.app)
-- Instagram: [@kaif11alii](https://www.instagram.com/kaif11alii/)
-- Email: [saiyedkaifali29@gmail.com](mailto:saiyedkaifali29@gmail.com)
-
----
+- Portfolio:- [Scrapbrozz.vercel.app](https://scrapbrozz.vercel.app)
+- Download.exe: [Video-Splitter](https://splittter.vercel.app)
+- JJ Popcorn:- [jjpopcorn](https://jj-demo.pimatrixsystem.com/)
 
 ### GitHub Stats
 
