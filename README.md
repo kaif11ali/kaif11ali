@@ -46,8 +46,9 @@ With hands-on experience in browser automation, JavaScript, and Node.js, I help 
 
 ### My Projects
 
-- Portfolio:- [Scrapbrozz.vercel.app](https://scrapbrozz.vercel.app)
+- Portfolio:- [KF](https://kf.is-a.dev/)
 - Download.exe: [Video-Splitter](https://splittter.vercel.app)
+- Download.exe: [Frame-Splitter](https://framesplitter.vercel.app/)
 - JJ Popcorn:- [jjpopcorn](https://jj-demo.pimatrixsystem.com/)
 
 ### GitHub Stats
