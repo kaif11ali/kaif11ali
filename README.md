@@ -38,8 +38,7 @@ With hands-on experience in browser automation, JavaScript, and Node.js, I help 
 
 - Extract structured data (JSON, CSV, Excel) from dynamic and static websites  
 - Automate repetitive tasks using browser scripting and APIs  
-- Build custom scrapers for platforms like e-commerce, real estate, job portals  
-- Integrate scrapers with **Make.com**, **Apify**, or cloud deployment  
+- Build custom scrapers for platforms like e-commerce, real estate, and job portals  
 - Provide clean, well-documented code and client-ready results
 
 ---
@@ -49,16 +48,14 @@ With hands-on experience in browser automation, JavaScript, and Node.js, I help 
 - Portfolio:- [KF](https://www.kaifali.tech/)
 - Download.exe: [Video-Splitter](https://splittter.vercel.app)
 - Download.exe: [Frame-Splitter](https://framesplitter.vercel.app/)
-- JJ Popcorn:- [jjpopcorn](https://jj-demo.pimatrixsystem.com/)
 
-### GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=kaif11ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaif11ali&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
+</div> -->
 
 ---
 
