@@ -46,8 +46,9 @@ With hands-on experience in browser automation, JavaScript, and Node.js, I help 
 ### My Projects
 
 - Portfolio:- [KF](https://www.kaifali.tech/)
-- Download.exe: [Video-Splitter](https://splittter.vercel.app)
-- Download.exe: [Frame-Splitter](https://framesplitter.vercel.app/)
+- Download.exe:- [Video-Splitter](https://splittter.vercel.app)
+- Download.exe:- [Frame-Splitter](https://framesplitter.vercel.app/)
+- Download:- [InstaChat Extensions](https://saiyedkaifali.gumroad.com/l/instachat)
 
 
 <!-- <div align="center">
